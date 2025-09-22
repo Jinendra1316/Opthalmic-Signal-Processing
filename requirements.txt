@@ -1,0 +1,11 @@
+pandas 
+numpy
+matplotlib 
+seaborn 
+scikit-learn
+tensorboard
+tensorflow==2.15.0
+ipykernel
+scikeras
+torch
+xgboost
